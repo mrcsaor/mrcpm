@@ -3,12 +3,6 @@ plugins {
 }
 
 android {
-    signingConfigs {
-        release {
-        storeFile file('D:\\Development\\AndroidStudioProjects\\CPMNuker\\data\\cpmnuker.keystore')
-            keyAlias 'cpmnuker'
-        }
-    }
     namespace 'com.anasov.cpmnuker'
     compileSdk 32
 
