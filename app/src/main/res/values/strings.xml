@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">CPM Nuker ☣</string>
+    <string name="hack_game">Hack Game !</string>
+    <string name="press">Press</string>
+    <string name="below_to_hack_the_game">below to hack the game.</string>
+    <string name="_40m_money">⁂ 40M money ∓ 5M.</string>
+    <string name="_500t_coins">⁂ 500T coins ∓ 5T.</string>
+    <string name="all_cars_unlocked">⁂ All Cars Unlocked.</string>
+    <string name="w16_engine_unlocked">⁂ W16 Engine Unlocked.</string>
+    <string name="most_used_cars_modified">⁂ Most used cars are modified.</string>
+    <string name="help">help</string>
+    <string name="developer">Developer</string>
+    <string name="cpm_nuker_help">CPM Nuker Help</string>
+    <string name="help1">⁂ Your device most be rooted or use a virtual environment instead.</string>
+    <string name="help2">⁂ To use in a virtual environment, just clone the CPM Nuker and CPM init.</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="permission_denied_title">Permission Denied !</string>
+    <string name="permission_denied_message">You have to grant all the required permissions to open the Application !</string>
+    <string name="permission_needed">permission needed</string>
+    <string name="storage_permission_message">this app needs a Storage Permission to edit the game files.</string>
+    <string name="hack_success">Hacked Successfully 🎉</string>
+    <string name="hack_fail">Hacking Failed 😓</string>
+    <string name="permission_granted">Permission Granted</string>
+    <string name="warning_title">Warning !</string>
+    <string name="warning_description">After Hacking the game, all your local progress will gone !, wanna continue ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

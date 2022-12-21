@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hack_game">إهكر اللعبة !</string>
+    <string name="press">إضغط على</string>
+    <string name="below_to_hack_the_game">في الأعلى لتهكير اللعبة.</string>
+    <string name="_40m_money">⁂ 40 مليون نقود ∓ 5 مليون.</string>
+    <string name="_500t_coins">⁂ 500 ألف عملة ∓ 5 ألف.</string>
+    <string name="all_cars_unlocked">⁂ جميع السيارات مفتوحة.</string>
+    <string name="w16_engine_unlocked">⁂ محرك W16 مفتوح.</string>
+    <string name="most_used_cars_modified">⁂ معضم السيارات شهرةً معدلة.</string>
+    <string name="help">مساعدة</string>
+    <string name="developer">المطور</string>
+    <string name="help2">⁂ في حالة إستخدام التطبيق داخل بيئة إفتراضية, يجب عليك نسخ اللعبة وهذا التطبيق داخل البيئة الإفتراضية خاصتك.</string>
+    <string name="help1">⁂ يجب على جهازك ان يدعم الروت أو إستخدم بيئة إفتراضية.</string>
+    <string name="cpm_nuker_help">المساعدة</string>
+    <string name="ok">حسناً</string>
+    <string name="cancel">إلغاء</string>
+    <string name="permission_denied_message">يجب عليك الموافقة على الصلاحيات التي يطلبها التطبيق للمتابعة !</string>
+    <string name="permission_needed">صلاحيات مطلوبة</string>
+    <string name="storage_permission_message">هذا التطبيق يتطلب صلاحيات الوصول للذاكرة للتعديل على ملفات اللعبة.</string>
+    <string name="permission_denied_title">إذن الوصول مرفوض !</string>
+    <string name="hack_success">تم التهكير بنجاح 🎉</string>
+    <string name="hack_fail">فشلة العملية التهكير 😓</string>
+    <string name="permission_granted">تم منح إذن الوصول</string>
+    <string name="warning_title">تحذير !</string>
+    <string name="warning_description">بعد تهكير اللعبة, قد تختفي سياراتك ونقودك الحالية !, أتريد المتابعة ؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+</resources>
