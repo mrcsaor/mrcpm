@@ -1,14 +1,59 @@
-![banner](https://banners.beyondco.de/CPMNuker.png?theme=dark&packageManager=&packageName=&pattern=architect&style=style_1&description=Car+Parking+Multiplayer+Hacker.&md=1&showWatermark=0&fontSize=100px&images=code)
+# About
+By using CPMNuker, you can get coins, gold coins, and modified cars without the need to download a modified version of the game.
+Just follow these steps:
 
-# ScreenShots
-Here is some screen shots from both of the application and the game.
+- Root
+    - Install `CPMNuker` form releases
+    - Run It & Click `Hack Game !`
+    - You're ready to go ;)
 
-## Application
-![screenshot](./pictures/screenshot-1.jpg)
-![screenshot](./pictures/screenshot-2.jpg)
-![screenshot](./pictures/screenshot-3.jpg)
-![screenshot](./pictures/screenshot-4.jpg)
+- UnRoot
+    - Install `Multiple Accounts` from [play store](https://play.google.com)
+    - Install `CPMNuker` form releases
+    - Copy `Car Parking Multiplayer` to `Multiple Accounts`
+    - Copy `CPMNuker` to `Multiple Accounts`
+    - Run It & Click `Hack Game !`
+    - You're ready to go ;)
 
-## Game
-![screenshot](./pictures/screenshot_game-1.jpg)
-![screenshot](./pictures/screenshot_game-2.jpg)
+## Application ScreenShots
+
+Dark theme                 |  Light theme
+:-------------------------:|:-------------------------:
+![screenshot](./pictures/screenshot-1.jpg)  | ![screenshot](./pictures/screenshot-6.jpg)
+![screenshot](./pictures/screenshot-2.jpg)  | ![screenshot](./pictures/screenshot-5.jpg)
+
+
+## Game ScreenShots
+
+View 1                 |  View 2
+:-------------------------:|:-------------------------:
+![screenshot](./pictures/screenshot_game-1.jpg)   | ![screenshot](./pictures/screenshot_game-2.jpg)
+
+### License
+```
+I disclaim my responsibility for any misuse of this application and that
+the purpose of its programming was for educational reasons only.
+```
+```
+MIT License
+
+Copyright (c) 2022 Anas Ben Rahim (Anasov)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
