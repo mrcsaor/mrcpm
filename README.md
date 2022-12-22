@@ -15,6 +15,10 @@ Just follow these steps:
     - Run It & Click `Hack Game !`
     - You're ready to go ;)
     
+```
+Note: The game will not stop your account, nor will it put you on the hackers server!
+```
+    
 ## Download
 <a href="https://github.com/itzAnasov/CPMNuker/releases/download/1.0/app-release.apk" target="_blank" rel="noopener noreferrer">
     <img width="200px" src="./pictures/get-it.png" />
