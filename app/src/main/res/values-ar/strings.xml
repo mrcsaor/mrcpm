@@ -3,8 +3,8 @@
     <string name="hack_game">إهكر اللعبة !</string>
     <string name="press">إضغط على</string>
     <string name="below_to_hack_the_game">في الأعلى لتهكير اللعبة.</string>
-    <string name="_40m_money">⁂ 40 مليون نقود ∓ 5 مليون.</string>
-    <string name="_500t_coins">⁂ 500 ألف عملة ∓ 5 ألف.</string>
+    <string name="_49m_money">⁂ 8000 مليون نقود ∓ 5 مليون.</string>
+    <string name="_8000t_coins">⁂ 8000 ألف عملة ∓ 5 ألف.</string>
     <string name="all_cars_unlocked">⁂ جميع السيارات مفتوحة.</string>
     <string name="w16_engine_unlocked">⁂ محرك W16 مفتوح.</string>
     <string name="most_used_cars_modified">⁂ معضم السيارات شهرةً معدلة.</string>
@@ -19,7 +19,7 @@
     <string name="permission_needed">صلاحيات مطلوبة</string>
     <string name="storage_permission_message">هذا التطبيق يتطلب صلاحيات الوصول للذاكرة للتعديل على ملفات اللعبة.</string>
     <string name="permission_denied_title">إذن الوصول مرفوض !</string>
-    <string name="hack_success">تم التهكير بنجاح 🎉</string>
+    <string name="hack_success">تم التهكير بنجاح 🥶</string>
     <string name="hack_fail">فشلة العملية التهكير 😓</string>
     <string name="permission_granted">تم منح إذن الوصول</string>
     <string name="warning_title">تحذير !</string>
