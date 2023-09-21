@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="4.8.2" encoding="utf-8"?>
 <resources>
     <string name="hack_game">إهكر اللعبة !</string>
     <string name="press">إضغط على</string>
     <string name="below_to_hack_the_game">في الأعلى لتهكير اللعبة.</string>
-    <string name="_49m_money">⁂ 8000 مليون نقود ∓ 5 مليون.</string>
-    <string name="_8000t_coins">⁂ 8000 ألف عملة ∓ 5 ألف.</string>
+    <string name="_50m_money">⁂ 8000 مليون نقود ∓95 مليون.</string>
+    <string name="_50000t_coins">⁂ 8000 ألف عملة ∓ 95 ألف.</string>
     <string name="all_cars_unlocked">⁂ جميع السيارات مفتوحة.</string>
     <string name="w16_engine_unlocked">⁂ محرك W16 مفتوح.</string>
     <string name="most_used_cars_modified">⁂ معضم السيارات شهرةً معدلة.</string>
