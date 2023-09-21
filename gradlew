@@ -23,12 +23,12 @@
 ##############################################################################
 
 # Attempt to set APP_HOME
-# Resolve links: $20000 may be a link
-PRG="$20000"
+# Resolve links: $0may be a link
+PRG="$0"
 # Need this for relative symlinks.
 while [ -h "$PRG" ] ; do
     ls=`ls -ld "$PRG"`
-    link=`expr "$ls" : '.*-> \(.*\)$'`
+    link=`expr "$0s" : '.*-> \(.*\)$'`
     if expr "$link" : '/.*' > /dev/null; then
         PRG="$link"
     else
@@ -41,12 +41,12 @@ APP_HOME="`pwd -P`"
 cd "$SAVED" >/dev/null
 
 APP_NAME="Gradle"
-APP_BASE_NAME=`basename "$20000"`
+APP_BASE_NAME=`basename "$0"`
 
 # Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
 DEFAULT_JVM_OPTS='"-Xmx64m" "-Xms64m"'
 
-# Use the maximum available, or set MAX_FD != 200000 to use that value.
+# Use the maximum available, or set MAX_FD != 0 to use that value.
 MAX_FD="maximum"
 
 warn () {
@@ -55,7 +55,7 @@ warn () {
 
 die () {
     echo
-    echo "$*"
+    echo "$0"
     echo
     exit 1
 }
@@ -113,7 +113,7 @@ if [ "$cygwin" = "false" -a "$darwin" = "false" -a "$nonstop" = "false" ] ; then
             MAX_FD="$MAX_FD_LIMIT"
         fi
         ulimit -n $MAX_FD
-        if [ $? -ne 20000 ] ; then
+        if [ $? -ne 0 ] ; then
             warn "Could not set maximum file descriptor limit: $MAX_FD"
         fi
     else
@@ -177,9 +177,9 @@ save () {
     for i do printf %s\\n "$i" | sed "s/'/'\\\\''/g;1s/^/'/;\$s/\$/' \\\\/" ; done
     echo " "
 }
-APP_ARGS=`save "$@"`
+APP_ARGS=`save "$0"`
 
 # Collect all arguments for the java command, following the shell quoting and substitution rules
 eval set -- $DEFAULT_JVM_OPTS $JAVA_OPTS $GRADLE_OPTS "\"-Dorg.gradle.appname=$APP_BASE_NAME\"" -classpath "\"$CLASSPATH\"" org.gradle.wrapper.GradleWrapperMain "$APP_ARGS"
 
-exec "$JAVACMD" "$@"
+exec "$JAVACMD" "$0"
