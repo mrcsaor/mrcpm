@@ -66,14 +66,14 @@
             android:layout_height="wrap_content"
             android:textSize="14sp"
             android:textStyle="bold"
-            android:text="@string/_40m_money"/>
+            android:text="@string/_50m_money"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="14sp"
             android:textStyle="bold"
-            android:text="@string/_500t_coins"/>
+            android:text="@string/_2000t_coins"/>
 
         <TextView
             android:layout_width="match_parent"
