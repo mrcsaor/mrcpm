@@ -20,7 +20,7 @@ Note: The game will not stop your account, nor will it put you on the hackers se
 ```
     
 ## Download
-<a href="https://github.com/mrcsaor/mrcpm/dowload/release/apk" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/mrcsaor/mrcpm/tree/master/dowload" target="_blank" rel="noopener noreferrer">
     <img width="200px" src="./pictures/get-it.png" />
 </a>
 
